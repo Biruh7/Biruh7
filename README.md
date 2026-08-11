@@ -22,7 +22,7 @@ I am a software engineering student focused on strengthening my expertise in sys
 - jQuery
 - DOM Manipulation
 - Mysql,Postgresql
-- MAMP
+- MAMP,WAMP,HAAMP
 - Wordpress
 - Squarespace
 - Shopify
