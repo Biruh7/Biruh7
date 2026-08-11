@@ -1,6 +1,6 @@
 # Hi, I'm Biruh 👋
 
-🎓 Software Engineering Student  
+🎓 Software Engineering Student and Full Stack Web Developer
 💻 Focus: C++ & Systems Programming  
 🚀 Building efficient, scalable, and well-structured software solutions  
 
@@ -12,12 +12,23 @@ I am a software engineering student focused on strengthening my expertise in sys
 ---
 
 ## 🔧 Technical Skills
-- Programming Language: C++
+- Programming Language: C++,javascript,typescript
 - Data Structures & Algorithms
 - System Programming Concepts
 - File Handling & Persistence
 - Version Control: Git & GitHub
 - Operating Systems Fundamentals (Basic)
+- HTML5,CSS3,Bootstrap
+- jQuery
+- DOM Manipulation
+- Mysql,Postgresql
+- MAMP
+- Wordpress
+- Squarespace
+- Shopify
+- OOP
+- React
+- UX UI Design
 
 ---
 
