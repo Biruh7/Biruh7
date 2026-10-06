@@ -12,7 +12,7 @@ I am a software engineering student focused on strengthening my expertise in sys
 ---
 
 ## 🔧 Technical Skills
-- Programming Language: C++,javascript,typescript
+- Programming Language: C++,javascript,typescript,java
 - Data Structures & Algorithms
 - System Programming Concepts
 - File Handling & Persistence
@@ -22,13 +22,18 @@ I am a software engineering student focused on strengthening my expertise in sys
 - jQuery
 - DOM Manipulation
 - Mysql,Postgresql
-- MAMP,WAMP,HAAMP
+- MAMP,WAMP,XHAAMP
 - Wordpress
 - Squarespace
 - Shopify
 - OOP
 - React
 - UX UI Design
+- Node.js
+- Express.js
+- Baas
+- Tailwind CSS
+- 
 
 ---
 
