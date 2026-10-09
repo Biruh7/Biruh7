@@ -1,7 +1,7 @@
 # Hi, I'm Biruh 👋
 
 🎓 Software Engineering Student and Full Stack Web Developer
-💻 Focus: C++ & Systems Programming  
+💻 Focus: C++, java, JavaScript, pyton & Systems Programming  
 🚀 Building efficient, scalable, and well-structured software solutions  
 
 ---
